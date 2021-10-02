@@ -1,2 +1,2 @@
 # testing
-A repository will be linked to Studio
+A repository will be linked to RStudio
